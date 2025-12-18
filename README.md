@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jimmy
 
-I’m a **Full Stack Developer** passionate about building scalable applications, intuitive user interfaces, and cloud-powered systems. I enjoy working across the stack—from designing clean front-end components to deploying microservices in the cloud.
+I’m a **Full Stack Developer** passionate about building web applications and intuitive user interfaces. I enjoy working across the stack—from designing clean front-end components to deploying microservices in the cloud.
 
 ### 🚀 What I Work With
 - **Languages:** Python, JavaScript, TypeScript, C/C++, SQL  
